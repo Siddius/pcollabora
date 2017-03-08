@@ -1,7 +1,7 @@
 FROM ubuntu:16.04
 
 # Environment variables
-ENV domain localhost
+ENV DOMAIN localhost
 ENV LC_CTYPE en_US.UTF-8
 
 # Setup scripts for LibreOffice Online
